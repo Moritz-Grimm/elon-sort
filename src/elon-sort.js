@@ -1,5 +1,5 @@
 async function elonSort(arr) {
-    let maxRandomLoop = 5; // Change this as desired
+    let maxRandomLoop = 100; // Change this as desired
     let timesToLoop = generateRandomInt(1, maxRandomLoop);
     let initialArrayLength = arr.length;
 
