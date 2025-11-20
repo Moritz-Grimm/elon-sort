@@ -1,7 +1,8 @@
 # elon-sort
 
 Elon-Sort is a next-gen algorithm designed to eventually sort arrays.  
-A collection of elon-sort implementations in different languages. I’ll expand this collection every time I’m bored.
+A collection of elon-sort implementations in different languages. I’ll expand this collection every time I’m bored.  
+This repo is an implementation of [this meme](https://programmerhumor.io/algorithm-memes/elon-sort-6vad).
 
 ## How elon-sort works
 
